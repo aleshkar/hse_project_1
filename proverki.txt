@@ -1,0 +1,2 @@
+flake8 proekt_onlycod_documentation.py
+python -m unittest finance_tests.py
